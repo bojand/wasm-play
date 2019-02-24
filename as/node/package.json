@@ -1,0 +1,17 @@
+{
+  "name": "as-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "standard": "^12.0.1"
+  },
+  "dependencies": {
+    "assemblyscript": "github:AssemblyScript/assemblyscript"
+  }
+}
